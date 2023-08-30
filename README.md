@@ -4,10 +4,6 @@
 																												   
 Jump_Ace presents, with thanks in large part to ChatGPT: https://chat.openai.com and ImageMagick: https://imagemagick.org
 
-----------------
-| HEIC2PNG 1.0 |
-----------------
-
 ::What It Does::
 
 Tired of manually converting HEIC files to PNGs manually every time you want to copy images from your iPhone?  Are they too large for what you need?  This script and app package may be for you!
